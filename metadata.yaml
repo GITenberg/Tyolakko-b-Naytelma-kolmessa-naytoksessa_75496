@@ -1,0 +1,31 @@
+_repo: Tyolakko-b-Naytelma-kolmessa-naytoksessa_75496
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walakorpi, Urho Wiljo
+    aliases:
+    - Haapanen, Urho
+    - Haapanen, Urho Viljo
+    birthdate: 1886
+    deathdate: 1957
+    gutenberg_agent_id: '46800'
+    url: http://www.gutenberg.org/2009/agents/46800
+    wikipedia: https://fi.wikipedia.org/wiki/U._W._Walakorpi
+description: ''
+gutenberg_issued: '2025-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75496'
+language: fi
+pgterms:marc905: 20180423080354haapanen
+pgterms:marc906: '1906'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHÃ¤meenlinna :$bBoman & Karlsson, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Työlakko : $b Näytelmä kolmessa näytöksessä'
+url: http://www.gutenberg.org/ebooks/75496
