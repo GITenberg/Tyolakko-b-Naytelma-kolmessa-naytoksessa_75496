@@ -1,5 +1,8 @@
 _repo: Tyolakko-b-Naytelma-kolmessa-naytoksessa_75496
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Walakorpi, Urho Wiljo
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46800
     wikipedia: https://fi.wikipedia.org/wiki/U._W._Walakorpi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75496#Tyolakko-b-Naytelma-kolmessa-naytoksessa
 gutenberg_issued: '2025-03-01'
 gutenberg_type: Text
 identifiers:
